@@ -1,3 +1,3 @@
 # SmoothSpatula-BigBrainTime
 
-All you need to know is that Brain iS Big.
+All you need to know is that Brain is Big.

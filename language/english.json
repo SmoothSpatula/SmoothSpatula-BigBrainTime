@@ -1,0 +1,12 @@
+{
+    "item" : {
+        "rottenBrain" : {
+            "name" : "Big Brain",
+            "pickup" : "It's Big Brain Time",
+            "description": "Use <y>KNOWLEDGE<w> to deal <y>6*2000%",
+            "destination" : "4120,\nFrazux Colony,\nMars",
+			"date" : "Soon",
+			"story" : "Look at the creases on that thing. Just look at the sheer size of it. \n\nAre we really eating this?"
+        }
+    }
+}

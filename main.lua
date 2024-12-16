@@ -3,7 +3,7 @@
 
 log.info("Successfully loaded ".._ENV["!guid"]..".")
 
-mods["RoRRModdingToolkit-RoRR_Modding_Toolkit"].auto()
+mods["RoRRModdingToolkit-RoRR_Modding_Toolkit"].auto(true)
 
 local initialize = function()
     -- Duplicate ingame sprite, draw to surface with scale, save to new sprite, delete first sprite
